@@ -1,7 +1,7 @@
 body {
   font-family: Arial, sans-serif;
   background-color: Black;
-  Background-image: linear-gradient(to right, black, #111, black);
+  Background-image: radial-gradient(circle at center, #0a0f1f 0%, #000 60%);
 }
 
 h1 {
