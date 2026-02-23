@@ -20,6 +20,16 @@ p {
 
 }
 
+p1 {
+  display: flex;
+  justify-content: center; /* centre horizontalement */
+  gap: 20px;               /* espace égal entre les cadenas */
+  font-size: 90px;
+   margin-top: 100px;  
+
+}
+
+
 
 body {
   color: white;
